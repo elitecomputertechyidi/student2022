@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/elitecomputer/static/css/main.29cd549e.css",
+    "main.js": "/elitecomputer/static/js/main.ad0fb095.js",
+    "static/js/787.bc7d429a.chunk.js": "/elitecomputer/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo.svg": "/elitecomputer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/elitecomputer/index.html",
+    "main.29cd549e.css.map": "/elitecomputer/static/css/main.29cd549e.css.map",
+    "main.ad0fb095.js.map": "/elitecomputer/static/js/main.ad0fb095.js.map",
+    "787.bc7d429a.chunk.js.map": "/elitecomputer/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd549e.css",
+    "static/js/main.ad0fb095.js"
+  ]
+}
